@@ -20,10 +20,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://6monthmutualaid.org" # the base hostname & protocol for your site, e.g. http://example.com
 google-analytics-id: ""
 navbar:
-  - name: Give
-    url: /how-to-give
-  - name: FAQ
-    url: /faq
+  - name: How to Give
+    url: '#how-to-give'
+  - name: What We've Done So Far
+    url: '#what-weve-done-so-far'
 
 plugins:
   - jekyll-sitemap

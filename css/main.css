@@ -102,17 +102,13 @@ h6 {
   font-weight: 700;
 }
 
+
 a,
 a:visited {
   color: rgb(163, 82, 84);
   font-weight: 700;
-  text-decoration: none;
+  text-decoration: none; 
   transition: color 0.2s ease-in-out;
-}
-
-.page-title a,
-.page-title a:visited {
-  font-weight: 900;
 }
 
 a:hover {
@@ -122,34 +118,34 @@ a:hover {
 .page-header,
 .page-content {
   width: 90%;
-  max-width: 978px;
+  max-width: 940px;
   margin: 0 auto;
 }
 
 .page-content {
   padding-bottom: 2rem;
-  font-size: 1.5rem;
 }
 
 /* Type scale, based loosely on https://type-scale.com/?size=16&scale=1.250&text=6%20Month%20Mutual%20Aid&font=Gothic%20A1&fontweight=400&bodyfont=Poppins&bodyfontweight=400&lineheight=1.45&backgroundcolor=%23ffffff&fontcolor=%23333333&preview=false */
 
 h1 {
-  font-size: 3rem;
-}
-
-h2 {
   font-size: 2.44rem;
 }
 
-h3 {
+h2 {
   font-size: 1.95rem;
+}
+
+h3 {
+  font-size: 1.5rem;
 }
 
 h4,
 h5,
 h6,
-.page-nav {
-  font-size: 1.5rem;
+.page-nav,
+.page-content {
+  font-size: 1.25rem;
 }
 
 .page-title {
@@ -157,6 +153,9 @@ h6,
 }
 
 .page-header {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
   padding: 2rem 0;
   line-height: 1;
 }
@@ -169,22 +168,23 @@ h6,
   margin-right: 1rem;
 }
 
-.page-nav-link,
-.page-nav-link:visited,
+
+.page-title a,
+.page-title a:visited {
+  font-weight: 900;
+  text-decoration: none;
+}
+
 .page-title a,
 .page-title a:visited {
   color: #222;
 }
 
-.page-nav-link-active,
+/* active styles here if/when this has multiple pages */ 
+/* .page-nav-link-active,
 .page-nav-link-active:visited {
-  background: linear-gradient(
-    transparent 0px,
-    transparent 65%,
-    rgb(250, 160, 175) 0px,
-    rgb(250, 160, 175)
-  );
 }
+*/
 
 .home-layout-figure {
   margin: 0 0 2rem 0;
