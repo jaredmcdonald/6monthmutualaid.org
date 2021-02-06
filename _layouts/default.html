@@ -26,13 +26,15 @@
     <h1 class="page-title"><a href="/">{{ site.title }}</a></h1>
     <nav class="page-nav">
       {% for navbar-page in site.navbar %}
+        {% if forloop.first == false %}
+        <span class="page-nav-divider" role="presentation">·</span>
+        {% endif %}
         <a
-          class="page-nav-link{% if page.url == navbar-page.url %} page-nav-link-active{% endif %}"
+          class="page-nav-link"
           href="{{ navbar-page.url }}"
         >
           {{ navbar-page.name }}
         </a>
-
       {% endfor %}
     </nav>
   </header>
@@ -47,6 +49,6 @@ ga('set','transport','beacon'); ga('send', 'pageview')
 </script>
   <script src="https://www.google-analytics.com/analytics.js" async defer></script>
   {% endif %}
+  {% asset netlify-forms.js @inline %}
 </body>
-
 </html>

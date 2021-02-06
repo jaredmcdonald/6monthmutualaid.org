@@ -103,8 +103,7 @@ h6 {
 }
 
 
-a,
-a:visited {
+a {
   color: rgb(163, 82, 84);
   font-weight: 700;
   text-decoration: none; 
@@ -136,7 +135,8 @@ h2 {
   font-size: 1.95rem;
 }
 
-h3 {
+h3,
+.home-layout-blurb {
   font-size: 1.5rem;
 }
 
@@ -164,10 +164,9 @@ h6,
   margin-top: 0.75rem;
 }
 
-.page-nav-link {
-  margin-right: 1rem;
+.page-nav-divider {
+  margin: 0 0.25rem;
 }
-
 
 .page-title a,
 .page-title a:visited {
@@ -180,15 +179,46 @@ h6,
   color: #222;
 }
 
-/* active styles here if/when this has multiple pages */ 
-/* .page-nav-link-active,
-.page-nav-link-active:visited {
+.home-layout-top {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: center;
 }
-*/
+
+.home-layout-blurb {
+  margin: 0;
+}
+
+.button,
+button {
+  display: block;
+  margin: 2rem 0;
+  max-width: 400px;
+  padding: 1rem 2rem;
+  background: rgb(163, 82, 84);
+  transition: background 0.2s ease-in-out;
+  color: white;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+}
+
+.button:hover,
+button:hover {
+  background: rgb(107, 33, 40);
+  color: white;
+}
+
+.button.centered {
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .home-layout-figure {
   margin: 0 0 2rem 0;
   width: 100%;
+  max-width: 450px;
 }
 
 .home-layout-image {
@@ -204,10 +234,14 @@ h6,
 }
 
 @media (min-width: 576px) {
+  .home-layout-top {
+    display: block;
+  }
   .home-layout-figure {
-    width: 22rem;
-    margin: 0 0 1rem 2rem;
-    float: right;
+    float: left;
+    width: 33%;
+    min-width: 225px;
+    margin: 0 2rem 1rem 0;
   }
 }
 

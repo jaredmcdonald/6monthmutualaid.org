@@ -3,9 +3,12 @@ layout: default
 ---
 
 <article class="home-layout">
-  <figure class="home-layout-figure">
-    <img src="{% asset '{{ page.image }}' @path %}" class="home-layout-image" />
-  </figure>
+  <section class="home-layout-top">
+    <figure class="home-layout-figure">
+      <img src="{% asset '{{ page.image }}' @path %}" class="home-layout-image" />
+    </figure>
+    <div class="home-layout-blurb">{{ page.top-blurb | markdownify }}</div>
+  </section>
   <section class="home-layout-content text-column text-column-content">
     {{ content }}
   </section>
