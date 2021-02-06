@@ -23,7 +23,7 @@ google-analytics-id: ""
 navbar:
   - name: How to Give
     url: '/#how-to-give'
-  - name: What We've Done So Far
+  - name: What We’ve Done So Far
     url: '/#what-weve-done-so-far'
 
 plugins:

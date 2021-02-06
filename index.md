@@ -19,7 +19,7 @@ We maintain a small balance of undisbursed funds to cover missed monthly contrib
 
 A response from one recipient:
 
-> "Thank you so much I really needed this and I will definitely let you know when I am back on my feet bless you so much you don’t know how much I appreciate you and whoever is helping"
+> “Thank you so much I really needed this and I will definitely let you know when I am back on my feet bless you so much you don’t know how much I appreciate you and whoever is helping”
 
 ## How to Give
 
