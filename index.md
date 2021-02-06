@@ -7,7 +7,7 @@ We are a group of people who believe it is deeply unjust that our economic syste
 
 As people who benefit from the status quo, we believe that it is our responsibility to repair this injustice. While we can’t change our entire economy, we can change how we relate to others within this broader structure. Specifically, we can create networks of mutual aid that support people based upon their need rather than what value they are able to create for others.
 
-Please consider joining us by [pledging to redistribute some money every month](/#how-to-give) to help those who suffer under our current economic system.
+Please consider joining us by [pledging](/#how-to-give) to redistribute some money every month to help those who suffer under our current economic system.
 
 ## What We’ve Done So Far
 

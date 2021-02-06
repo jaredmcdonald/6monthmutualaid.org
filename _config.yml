@@ -18,12 +18,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   TKTKTK
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://6monthmutualaid.org" # the base hostname & protocol for your site, e.g. http://example.com
+emoji_favicon: 🌹
 google-analytics-id: ""
 navbar:
   - name: How to Give
-    url: '#how-to-give'
+    url: '/#how-to-give'
   - name: What We've Done So Far
-    url: '#what-weve-done-so-far'
+    url: '/#what-weve-done-so-far'
 
 plugins:
   - jekyll-sitemap
