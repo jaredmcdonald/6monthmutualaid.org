@@ -17,7 +17,7 @@ As people who benefit from the status quo, we believe that it is our responsibil
 
 ## About the project
 
-We are currently disbursing $1500 every month to 3 recipients and have transferred a total of $8,500 to 6 people in need. 
+We are currently disbursing $1,500 every month to 3 recipients and have transferred a total of $8,500 to 6 people in need. 
 
 Recipients are either referred to the organizing committee or were found seeking assistance online (e.g., on GoFundMe). We prioritize people who have not already received support.
 
