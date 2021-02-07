@@ -6,7 +6,7 @@ top-blurb: |
     
     To this end, we have set up a mutual aid fund that provides unconditional cash transfers to people in need. We currently give recipients $500 per month for 6 months.
 
-    [Join us](#how-to-give){:.button.centered}
+    [Join us](https://docs.google.com/forms/d/1SB9_dIPnSNYau_G2xa0hLfsJQc9krAsgDAV4BkS6KD4/edit){:.button.centered}
 ---
 
 ## Why mutual aid?
