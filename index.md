@@ -3,19 +3,21 @@ layout: home
 image: 6monthmutualaid.jpg
 top-blurb: |
     We are a group of people who believe it is deeply unjust that our economic system leaves so many with so little. **It is our responsibility to repair this injustice.** While we can’t change our entire economy, we can change how we relate to others within this broader structure. Specifically, we can create networks of mutual aid that support people based upon their need rather than what value they are able to create for others.
+    
+To this end, we have set up a mutual aid fund that provides unconditional cash transfers to people in need. We currently transfer recipients $500 per month for 6 months.
 
-    [Give now](#how-to-give){:.button.centered}
+    [Join us](#how-to-give){:.button.centered}
 ---
 
 ## Why mutual aid?
 
-While capitalism has generated large amounts of wealth, that wealth overwhelmingly flows to those who need it least: people born into well-off families, those who benefit from systems of racial oppression, people who are able-bodied, etc. Meanwhile, those who don’t benefit from these systems are often left without the resources they need to live the lives they deserve.
+While capitalism has generated large amounts of wealth, it overwhelmingly flows to those who need it least: people born into well-off families, those who benefit from systems of racial oppression, people who are able-bodied, etc. Meanwhile, those who don’t benefit from these systems are often left without the resources they need to live the lives they deserve.
 
 As people who benefit from the status quo, we believe that it is our responsibility to repair this injustice. Please consider joining us by [pledging](/#how-to-give) to redistribute some money every month to help those who suffer under our current economic system.
 
 ## About the project
 
-We disburse $1500 every month to 3 recipients and have transferred a total of $8,500 to 6 people in need. 
+We are currently disbursing $1500 every month to 3 recipients and have transferred a total of $8,500 to 6 people in need. 
 
 Recipients are either referred to the organizing committee or were found seeking assistance online (e.g., on GoFundMe). We prioritize people who have not already received support.
 
