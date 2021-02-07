@@ -31,6 +31,4 @@ A response from one recipient:
 
 To minimize administrative hassle, we ask that participants make a single contribution to fund six months of transfer payments. Monthly contributions will be accepted upon special request.
 
-If you are interested in contributing, please send an email to [6monthmutualaid@gmail.com](mailto:6monthmutualaid@gmail.com) for further instructions about how to transfer your contribution. Also, please state in the body of the email if you would like to receive email updates from the fund and/or help to manage the fund.
-
-[Email us](mailto:6monthmutualaid@gmail.com){:.button}
+If you are interested in contributing, please fill out [this Google Form](https://docs.google.com/forms/d/1SB9_dIPnSNYau_G2xa0hLfsJQc9krAsgDAV4BkS6KD4/edit) and we will get in touch with you shortly. Please direct any questions to [6monthmutualaid@gmail.com](mailto:6monthmutualaid@gmail.com).
