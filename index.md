@@ -3,8 +3,7 @@ layout: home
 image: 6monthmutualaid.jpg
 top-blurb: |
     We are a group of people who believe it is deeply unjust that our economic system leaves so many with so little. **It is our responsibility to repair this injustice.** While we can’t change our entire economy, we can change how we relate to others within this broader structure. Specifically, we can create networks of mutual aid that support people based upon their need rather than what value they are able to create for others.
-    
-To this end, we have set up a mutual aid fund that provides unconditional cash transfers to people in need. We currently transfer recipients $500 per month for 6 months.
+    To this end, we have set up a mutual aid fund that provides unconditional cash transfers to people in need. We currently transfer recipients $500 per month for 6 months.
 
     [Join us](#how-to-give){:.button.centered}
 ---
