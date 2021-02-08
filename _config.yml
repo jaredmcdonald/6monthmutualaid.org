@@ -18,7 +18,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Join our mutual aid network to help those who suffer under our current economic system.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://6monthmutualaid.org" # the base hostname & protocol for your site, e.g. http://example.com
-emoji_favicon: 🌹
 google-analytics-id: ""
 navbar:
   - name: Give
@@ -56,4 +55,3 @@ exclude:
   - LICENSE.txt
   - .gitignore
   - _config.yml
-  - .travis.yml
