@@ -236,6 +236,7 @@ button:hover {
 @media (min-width: 576px) {
   .home-layout-top {
     display: block;
+    margin-bottom: 5rem;
   }
   .home-layout-figure {
     float: left;
